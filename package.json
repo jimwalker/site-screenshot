@@ -1,0 +1,31 @@
+{
+  "name": "webwalker",
+  "version": "0.0.1",
+  "description": "Get a screenshot of a website",
+  "main": "src/site-screenshot.js",
+  "keywords": [
+    "web site",
+    "screenshot",
+    "image",
+    "thumbnail",
+    "phantomjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimwalker/site-screenshot"
+  },
+  "scripts": {},
+  "author": {      
+    "name": "Jim Walker",
+    "email": "jim.walkster@gmail.com"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jimwalker/site-screenshot/issues"
+  },
+  "homepage": "https://github.com/jimwalker/site-screenshot",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.16"
+  }
+}
